@@ -22,9 +22,9 @@
 
 ## 2. Live Demo
 
-- For the full course, You can refer to this [link]().
+- For the full course, You can refer to this [link](https://codecourses.site/react/how-to-build-loading-component-in-react/).
 
-- You can refer to this [Youtube video]() for the live demo.
+- You can refer to this [Youtube video](https://youtu.be/d-DMPW7PMQM) for the live demo.
 
 <a id="technologies"></a>
 
